@@ -72,11 +72,9 @@ $ sudo apt-get install cuda
 
 The last step should take a few minutes, and use about 2Gb of disk. **REBOOT** after the installation.
 
-I was unable to login after the install, to fix it, log into your 4.13 kernel, reboot, and log back in the 4.4. Mindfuck.
+I was unable to login after the install, to fix it, log into your 4.13 kernel, reboot, and log back in the 4.4.
 
 ## Post-Installation
-
-This would be too easy !
 
 ### Add CUDA to your $PATH.
 
