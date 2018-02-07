@@ -1,4 +1,4 @@
-# How to instal CUDA on Ubuntu 16.04 LTS
+# How to install CUDA on Ubuntu 16.04 LTS
 
 This tutorial details all the steps for a clean install of CUDA 9.1 on a computer running Ubuntu 16.04. The installation and configuration process is *very* tedious, and might take a couple hours.
 
