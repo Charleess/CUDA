@@ -29,11 +29,11 @@ $ wget http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.4.115/linux-image-4.4.11
 Execute the newly downloaded packages and rebot your computer
 
 ```bash
-$ sudo dpkg -i linux-headers-4.4.115-*.deb linux-image-4.4.114-*.deb
+$ sudo dpkg -i linux-headers-4.4.115-*.deb linux-image-4.4.115-*.deb
 $ sudo reboot
 ```
 
-At boot, on the bootloader, select `Advanced options for Ubuntu`. You should see a list of available kernels, simply select the 4.4 version. Check that the version has been correctly installed:
+At boot, on the bootloader, select `Advanced options for Ubuntu`. You should see a list of available kernels, select the 4.4 version. Check that the version has been correctly installed:
 
 ```bash
 $ uname -r
